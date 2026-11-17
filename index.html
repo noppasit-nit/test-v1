@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Malee vs Tipco - Price & Promo Dashboard (Mockup)</title>
+<!-- All paths below are relative so the site works under a GitHub Pages subpath such as /test-v1/ -->
+<link rel="stylesheet" href="assets/style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<script src="config.js"></script>
+</head>
+<body>
+<div class="mock-banner" id="mockBanner">MOCKUP DATA - price history 18 Oct-16 Nov 2026, promo episodes and target bands are simulated for demonstration. Only rows tagged <span class="real">REAL</span> (17 Nov 2026 retailer snapshot) come from live retailer pages.</div>
+<header>
+  <h1 id="title">Malee vs Tipco - Price & Promo Dashboard</h1>
+  <div class="sub">Marketing manager view · 3 SKU pairs (1 L) · Lotus's and Big C · prices in THB</div>
+  <div class="badges">
+    <span class="badge" id="updated">Last updated: -</span>
+    <span class="badge" id="refresh">Refresh: -</span>
+    <span class="badge" id="due">Next update due: -</span>
+    <span class="badge" id="source">Data: -</span>
+    <span class="badge mockb">MOCKUP DATA</span>
+  </div>
+</header>
+<nav>
+  <button data-tab="summary" class="active">This week</button>
+  <button data-tab="patterns">Promo Patterns</button>
+  <button data-tab="index">Price Index</button>
+  <button data-tab="log">Promotions Log</button>
+  <button data-tab="cases">Learning Cases</button>
+</nav>
+<main>
+  <div id="errors"></div>
+
+  <section id="tab-summary" class="tab active">
+    <h2>This week: what changed / why it matters / recommended move <span class="mock">MOCKUP</span></h2>
+    <p class="muted" id="weekNote"></p>
+    <div class="actions" id="actions"></div>
+    <h2>KPIs <span class="mock">MOCKUP</span></h2>
+    <div class="grid" id="kpis"></div>
+    <h2>Alerts (last <span id="alertDays"></span> days) <span class="mock">MOCKUP</span></h2>
+    <div class="table-wrap"><table id="alerts"></table></div>
+  </section>
+
+  <section id="tab-patterns" class="tab">
+    <h2>Promo frequency, depth and duration - brand × retailer (<span class="rangeTxt"></span>) <span class="mock">MOCKUP</span></h2>
+    <div class="table-wrap"><table id="patternTable"></table></div>
+    <p class="muted">Days on promo % = promo days ÷ captured days. Avg depth = average % off regular on promo days (buy-3-pay-2 counted as 33% off the unit price). Avg duration = average length of a promo run in days; runs that touch the start or end of the window may be longer in reality; not-captured days inside a run are bridged but not counted.</p>
+    <h2>Promo calendar <span class="mock">MOCKUP</span></h2>
+    <div class="table-wrap heat-wrap"><table id="heatmap" class="heat"></table></div>
+    <p class="muted"><span class="hk d1"></span> 1-7% off &nbsp; <span class="hk d2"></span> 7-12% off &nbsp; <span class="hk d3"></span> over 12% off &nbsp; <span class="hk b3"></span> buy 3 pay 2 &nbsp; <span class="hk nc"></span> not captured &nbsp; outlined = REAL (17 Nov 2026)</p>
+    <h2>Price per 100 ml - 30-day trend <span class="mock">MOCKUP</span></h2>
+    <div class="card">
+      <div class="controls"><label>Pair <select id="trendPair"></select></label> <label>Retailer <select id="trendRetailer"></select></label></div>
+      <div class="chart-wrap"><canvas id="trendChart"></canvas></div>
+      <div class="legend-note">Solid line = shelf price paid (promo if any). Dashed = regular price. Gaps = day not captured.</div>
+    </div>
+  </section>
+
+  <section id="tab-index" class="tab">
+    <h2>Latest Malee price index vs target band (Tipco = 100) <span class="mock">MOCKUP band</span></h2>
+    <div class="table-wrap"><table id="bandTable"></table></div>
+    <p class="muted">Malee index = Malee shelf price per 100 ml ÷ Tipco shelf price per 100 ml × 100. Below 100 = Malee cheaper. Target bands are MOCKUP placeholders; the real target price positions from Marketing replace them (edit data/targets.csv).</p>
+    <h2>Index trend <span class="mock">MOCKUP</span></h2>
+    <div class="card">
+      <div class="controls"><label>Pair <select id="idxPair"></select></label></div>
+      <div class="chart-wrap"><canvas id="idxChart"></canvas></div>
+      <div class="legend-note">Shaded area = MOCKUP target band. One line per retailer; gaps = one of the two SKUs not captured that day.</div>
+    </div>
+    <h2>Latest shelf prices (17 Nov 2026 snapshot) <span class="real">REAL</span></h2>
+    <div class="table-wrap"><table id="latestTable"></table></div>
+  </section>
+
+  <section id="tab-log" class="tab">
+    <h2>Promo runs found in the daily price history <span class="mock">MOCKUP</span></h2>
+    <div class="table-wrap"><table id="runsTable"></table></div>
+    <h2>Retailer promos seen online on 17 Nov 2026 <span class="real">REAL</span></h2>
+    <div class="table-wrap"><table id="promoTable"></table></div>
+    <h2>Campaigns and launches (context) <span class="real">REAL</span></h2>
+    <div class="table-wrap"><table id="campaignTable"></table></div>
+  </section>
+
+  <section id="tab-cases" class="tab">
+    <h2>Learning cases (public sources)</h2>
+    <div class="cases" id="casesWrap"></div>
+  </section>
+</main>
+<footer>Data mostly MOCKUP, real snapshot 17 Nov 2026. Sources are public retailer pages, company filings and press; check each link before quoting. Times are <span id="tz"></span>.</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

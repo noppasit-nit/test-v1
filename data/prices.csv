@@ -1,0 +1,373 @@
+date,sku_id,retailer,captured,regular_price_thb,shelf_price_thb,promo_type,promo_label,promo_end_date,is_mockup,data_status,source_url,notes
+2026-10-18,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-19,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-20,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-21,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-22,MAL-APL-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-23,MAL-APL-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-24,MAL-APL-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-25,MAL-APL-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-26,MAL-APL-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-27,MAL-APL-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-28,MAL-APL-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-29,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-30,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-31,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-01,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-02,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-03,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-04,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-05,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-06,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-07,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-08,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-09,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-10,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-11,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-12,MAL-APL-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-13,MAL-APL-1L,Lotus's,TRUE,89,83,discount,-6.7%,,TRUE,MOCKUP,,
+2026-11-14,MAL-APL-1L,Lotus's,TRUE,89,83,discount,-6.7%,,TRUE,MOCKUP,,
+2026-11-15,MAL-APL-1L,Lotus's,TRUE,89,83,discount,-6.7%,,TRUE,MOCKUP,,
+2026-11-16,MAL-APL-1L,Lotus's,TRUE,89,83,discount,-6.7%,,TRUE,MOCKUP,,
+2026-11-17,MAL-APL-1L,Lotus's,TRUE,89,83,discount,-6.7%,,FALSE,REAL,https://www.lotuss.com/th/product/malee-100-apple-juice-from-apple-juice-concentrate-1000ml-875201,End date not shown
+2026-10-18,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-19,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-20,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-21,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-22,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-23,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-24,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-25,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-26,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-27,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-28,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-29,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-10-30,TIP-APL-1L,Lotus's,TRUE,101,91,discount,-9.9%,,TRUE,MOCKUP,,
+2026-10-31,TIP-APL-1L,Lotus's,TRUE,101,91,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-01,TIP-APL-1L,Lotus's,TRUE,101,91,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-02,TIP-APL-1L,Lotus's,TRUE,101,91,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-03,TIP-APL-1L,Lotus's,TRUE,101,91,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-04,TIP-APL-1L,Lotus's,TRUE,101,91,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-05,TIP-APL-1L,Lotus's,TRUE,101,91,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-06,TIP-APL-1L,Lotus's,TRUE,101,91,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-07,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-08,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-09,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-10,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-11,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-12,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-13,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-14,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-15,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-16,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,TRUE,MOCKUP,,
+2026-11-17,TIP-APL-1L,Lotus's,TRUE,101,101,none,,,FALSE,REAL,https://www.lotuss.com/th/product/75548307,
+2026-10-18,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-19,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-20,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-21,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-22,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-23,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-24,MAL-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-25,MAL-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-26,MAL-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-27,MAL-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-10-28,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-29,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-30,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-31,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-01,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-02,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-03,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-04,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-05,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-06,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-07,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-08,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-09,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-10,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-11,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-12,MAL-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-13,MAL-POM-1L,Lotus's,TRUE,89,83,discount,-6.7%,,TRUE,MOCKUP,,
+2026-11-14,MAL-POM-1L,Lotus's,TRUE,89,83,discount,-6.7%,,TRUE,MOCKUP,,
+2026-11-15,MAL-POM-1L,Lotus's,TRUE,89,83,discount,-6.7%,,TRUE,MOCKUP,,
+2026-11-16,MAL-POM-1L,Lotus's,TRUE,89,83,discount,-6.7%,,TRUE,MOCKUP,,
+2026-11-17,MAL-POM-1L,Lotus's,TRUE,89,83,discount,-6.7%,,FALSE,REAL,https://www.lotuss.com/th/product/malee-pomegranate-juice100-1-lt-19158971,End date not shown
+2026-10-18,TIP-POM-1L,Lotus's,TRUE,89,84,discount,-5.6%,,TRUE,MOCKUP,,
+2026-10-19,TIP-POM-1L,Lotus's,TRUE,89,84,discount,-5.6%,,TRUE,MOCKUP,,
+2026-10-20,TIP-POM-1L,Lotus's,TRUE,89,84,discount,-5.6%,,TRUE,MOCKUP,,
+2026-10-21,TIP-POM-1L,Lotus's,TRUE,89,84,discount,-5.6%,,TRUE,MOCKUP,,
+2026-10-22,TIP-POM-1L,Lotus's,TRUE,89,84,discount,-5.6%,,TRUE,MOCKUP,,
+2026-10-23,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-24,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-25,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-26,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-27,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-28,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-29,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-30,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-31,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-01,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-02,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-03,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-04,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-05,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-06,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-07,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-08,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-09,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-10,TIP-POM-1L,Lotus's,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-11,TIP-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-12,TIP-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-13,TIP-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-14,TIP-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-15,TIP-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-16,TIP-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-17,TIP-POM-1L,Lotus's,TRUE,89,80,discount,-10.1%,,FALSE,REAL,https://www.lotuss.com/th/product/tipco-100-pomegranate-mixed-fruit-juice-1l-17222893,End date not shown
+2026-10-18,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-19,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-20,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-21,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-22,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-23,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-24,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-25,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-26,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-27,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-28,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-29,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-30,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-10-31,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-11-01,MAL-COC-1L,Lotus's,TRUE,81,73,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-02,MAL-COC-1L,Lotus's,TRUE,81,73,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-03,MAL-COC-1L,Lotus's,TRUE,81,73,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-04,MAL-COC-1L,Lotus's,TRUE,81,73,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-05,MAL-COC-1L,Lotus's,TRUE,81,73,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-06,MAL-COC-1L,Lotus's,TRUE,81,73,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-07,MAL-COC-1L,Lotus's,TRUE,81,73,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-08,MAL-COC-1L,Lotus's,TRUE,81,73,discount,-9.9%,,TRUE,MOCKUP,,
+2026-11-09,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-11-10,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-11-11,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-11-12,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-11-13,MAL-COC-1L,Lotus's,TRUE,81,81,none,,,TRUE,MOCKUP,,
+2026-11-14,MAL-COC-1L,Lotus's,TRUE,81,74,discount,-8.6%,,TRUE,MOCKUP,,
+2026-11-15,MAL-COC-1L,Lotus's,TRUE,81,74,discount,-8.6%,,TRUE,MOCKUP,,
+2026-11-16,MAL-COC-1L,Lotus's,TRUE,81,74,discount,-8.6%,,TRUE,MOCKUP,,
+2026-11-17,MAL-COC-1L,Lotus's,TRUE,81,74,discount,-8.6%,,FALSE,REAL,https://www.lotuss.com/th/product/malee-coco-100-coconut-water-1000ml-74257218,End date not shown
+2026-10-18,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-19,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-20,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-21,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-22,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-23,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-24,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-25,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-26,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-27,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-28,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-29,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-30,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-10-31,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-11-01,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-11-02,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-11-03,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-11-04,TIP-COC-1L,Lotus's,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-05,TIP-COC-1L,Lotus's,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-06,TIP-COC-1L,Lotus's,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-07,TIP-COC-1L,Lotus's,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-08,TIP-COC-1L,Lotus's,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-09,TIP-COC-1L,Lotus's,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-10,TIP-COC-1L,Lotus's,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-11,TIP-COC-1L,Lotus's,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-12,TIP-COC-1L,Lotus's,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-13,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-11-14,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-11-15,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-11-16,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,TRUE,MOCKUP,,
+2026-11-17,TIP-COC-1L,Lotus's,TRUE,79,79,none,,,FALSE,REAL,https://www.lotuss.com/th/product/52504581,
+2026-10-18,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-19,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-20,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-21,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-22,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-23,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-24,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-10-25,MAL-APL-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-10-26,MAL-APL-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,
+2026-10-27,MAL-APL-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,
+2026-10-28,MAL-APL-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,
+2026-10-29,MAL-APL-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,
+2026-10-30,MAL-APL-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,
+2026-10-31,MAL-APL-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,
+2026-11-01,MAL-APL-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,
+2026-11-02,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-03,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-04,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-05,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-06,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-07,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-08,MAL-APL-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-09,MAL-APL-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-10,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-11,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-12,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-13,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-14,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-15,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-16,MAL-APL-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,
+2026-11-17,MAL-APL-1L,Big C,TRUE,89,89,none,,,FALSE,REAL,https://www.bigc.co.th/product/malee-100-apple-juice-1000-ml.967,
+2026-10-18,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-19,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-20,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-21,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-22,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-23,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-24,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-25,TIP-APL-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-10-26,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-27,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-28,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-29,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-30,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-10-31,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-11-01,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-11-02,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-11-03,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-11-04,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-11-05,TIP-APL-1L,Big C,TRUE,99,99,none,,,TRUE,MOCKUP,,
+2026-11-06,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-07,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-08,TIP-APL-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-09,TIP-APL-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-10,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-11,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-12,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-13,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-14,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-15,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-16,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,,TRUE,MOCKUP,,
+2026-11-17,TIP-APL-1L,Big C,TRUE,99,89,discount,-10.1%,2026-12-03,FALSE,REAL,https://www.bigc.co.th/product/tipco-apple-juice-100-1-l.4007302,
+2026-10-18,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-19,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-20,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-21,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-22,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-23,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-24,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-25,MAL-POM-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-10-26,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-27,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-28,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-29,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-30,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-31,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-01,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-02,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-03,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-04,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-05,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-06,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-07,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-08,MAL-POM-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-09,MAL-POM-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-10,MAL-POM-1L,Big C,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-11,MAL-POM-1L,Big C,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-12,MAL-POM-1L,Big C,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-13,MAL-POM-1L,Big C,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-14,MAL-POM-1L,Big C,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-15,MAL-POM-1L,Big C,TRUE,89,80,discount,-10.1%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-16,MAL-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-17,MAL-POM-1L,Big C,FALSE,,,not_captured,,,FALSE,REAL,,Not found online on 17 Nov 2026
+2026-10-18,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-19,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-20,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-21,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-22,TIP-POM-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-23,TIP-POM-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-24,TIP-POM-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-25,TIP-POM-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-10-26,TIP-POM-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-27,TIP-POM-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-28,TIP-POM-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-29,TIP-POM-1L,Big C,TRUE,89,79,discount,-11.2%,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-30,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-31,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-01,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-02,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-03,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-04,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-05,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-06,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-07,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-08,TIP-POM-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-09,TIP-POM-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-10,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-11,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-12,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-13,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-14,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-15,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-16,TIP-POM-1L,Big C,TRUE,89,89,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-17,TIP-POM-1L,Big C,FALSE,,,not_captured,,,FALSE,REAL,,Not found online on 17 Nov 2026
+2026-10-18,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-19,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-20,MAL-COC-1L,Big C,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-21,MAL-COC-1L,Big C,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-22,MAL-COC-1L,Big C,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-23,MAL-COC-1L,Big C,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-24,MAL-COC-1L,Big C,TRUE,79,71,discount,-10.1%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-25,MAL-COC-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-10-26,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-27,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-28,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-29,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-30,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-10-31,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-01,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-02,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-03,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-04,MAL-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-05,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-06,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-07,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-08,MAL-COC-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-09,MAL-COC-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-10,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-11,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-12,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-13,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-14,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-15,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-16,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,,TRUE,MOCKUP,,Big C listing is the Namhom variant
+2026-11-17,MAL-COC-1L,Big C,TRUE,79,74,discount,-6.3%,2026-12-03,FALSE,REAL,https://www.bigc.co.th/product/malee-coco-100-namhom-coconut-water-1000-ml.5027528,Big C listing is the Namhom variant
+2026-10-18,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-19,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-20,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-21,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-22,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-23,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-24,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-25,TIP-COC-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-10-26,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-27,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-28,TIP-COC-1L,Big C,TRUE,79,52.67,buy3pay2,Buy 3 pay 2 (effective unit price),,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-29,TIP-COC-1L,Big C,TRUE,79,52.67,buy3pay2,Buy 3 pay 2 (effective unit price),,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-30,TIP-COC-1L,Big C,TRUE,79,52.67,buy3pay2,Buy 3 pay 2 (effective unit price),,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-10-31,TIP-COC-1L,Big C,TRUE,79,52.67,buy3pay2,Buy 3 pay 2 (effective unit price),,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-01,TIP-COC-1L,Big C,TRUE,79,52.67,buy3pay2,Buy 3 pay 2 (effective unit price),,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-02,TIP-COC-1L,Big C,TRUE,79,52.67,buy3pay2,Buy 3 pay 2 (effective unit price),,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-03,TIP-COC-1L,Big C,TRUE,79,52.67,buy3pay2,Buy 3 pay 2 (effective unit price),,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-04,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-05,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-06,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-07,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-08,TIP-COC-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-09,TIP-COC-1L,Big C,FALSE,,,not_captured,,,TRUE,MOCKUP,,Simulated missed check
+2026-11-10,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-11,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-12,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-13,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-14,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-15,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-16,TIP-COC-1L,Big C,TRUE,79,79,none,,,TRUE,MOCKUP,,Regular price assumed = Lotus's regular (not found at Big C)
+2026-11-17,TIP-COC-1L,Big C,FALSE,,,not_captured,,,FALSE,REAL,,Not found online on 17 Nov 2026

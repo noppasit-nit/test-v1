@@ -1,0 +1,13 @@
+sku_id,retailer,listing_name,listing_url,is_variant,notes
+MAL-APL-1L,Lotus's,Malee 100% Apple Juice 1000 ml,https://www.lotuss.com/th/product/malee-100-apple-juice-from-apple-juice-concentrate-1000ml-875201,FALSE,
+TIP-APL-1L,Lotus's,Tipco 100% Apple Juice 1 L,https://www.lotuss.com/th/product/75548307,FALSE,
+MAL-POM-1L,Lotus's,Malee Healthy Plus Pomegranate + Mixed Fruit 100% 1 L,https://www.lotuss.com/th/product/malee-pomegranate-juice100-1-lt-19158971,FALSE,
+TIP-POM-1L,Lotus's,Tipco Pomegranate + Mixed Fruit 100% 1000 ml,https://www.lotuss.com/th/product/tipco-100-pomegranate-mixed-fruit-juice-1l-17222893,FALSE,
+MAL-COC-1L,Lotus's,Malee COCO 100% Coconut Water 1 L,https://www.lotuss.com/th/product/malee-coco-100-coconut-water-1000ml-74257218,FALSE,
+TIP-COC-1L,Lotus's,Tipco 100% Coconut Water 1000 ml,https://www.lotuss.com/th/product/52504581,FALSE,
+MAL-APL-1L,Big C,Malee 100% Apple Juice 1000 ml,https://www.bigc.co.th/product/malee-100-apple-juice-1000-ml.967,FALSE,
+TIP-APL-1L,Big C,Tipco Apple Juice 100% 1 L,https://www.bigc.co.th/product/tipco-apple-juice-100-1-l.4007302,FALSE,
+MAL-POM-1L,Big C,(not found online on 17 Nov 2026),,FALSE,History is MOCKUP; regular price assumed = Lotus's
+TIP-POM-1L,Big C,(not found online on 17 Nov 2026),,FALSE,History is MOCKUP; regular price assumed = Lotus's
+MAL-COC-1L,Big C,Malee COCO 100% Namhom Coconut Water 1000 ml,https://www.bigc.co.th/product/malee-coco-100-namhom-coconut-water-1000-ml.5027528,TRUE,Fragrant-coconut (Namhom) variant; closest Big C listing
+TIP-COC-1L,Big C,(not found online on 17 Nov 2026),,FALSE,History is MOCKUP; regular price assumed = Lotus's

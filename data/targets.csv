@@ -1,0 +1,4 @@
+pair_id,target_position,malee_gap_min_pct,malee_gap_max_pct,rationale,is_mockup,data_status
+P1,Parity +/-3% vs Tipco,-3,3,MOCKUP target: apple is a head-to-head flavour; stay at parity. Real target from Marketing replaces this.,TRUE,MOCKUP
+P2,Parity +/-3% vs Tipco,-3,3,MOCKUP target: pomegranate is a health-led flavour; stay at parity. Real target from Marketing replaces this.,TRUE,MOCKUP
+P3,Malee premium 0% to +5% vs Tipco,0,5,MOCKUP target: Malee COCO is the coconut water leader (about 30% share) so it can hold a small premium. Real target from Marketing replaces this.,TRUE,MOCKUP
